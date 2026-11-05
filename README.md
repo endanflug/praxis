@@ -18,6 +18,7 @@ Alle Artikel findest du im Ordner [`artikel/`](artikel/README.md).
 |-------|------------------|
 | [Mach langsam](artikel/mach-langsam.md) | Slow is smooth, and smooth is fast: beim Rollen, im iPad, im Funk und im Approach. |
 | [Briefing – was wirklich zählt](artikel/briefing.md) | Was heute zählt statt Ritual: Himmelsrichtungen, Kurve im Kopf, landing- und go-around-minded. |
+| [Der FD ist eine Empfehlung](artikel/fd-ist-eine-empfehlung.md) | Der FD folgt dir, nicht du ihm – und das FMA sagt, wann Abweichen kritisch wird. |
 | [A320 PF Ground Operations](artikel/a320-pf-ground-operations.md) | Der PF am Boden: Engine Start, Taxi, Line-up, Takeoff Thrust, Rollout und Parkposition. |
 | [HEMA VOR Y 33 – Raw-Data-Training](artikel/hema-vor-y-33-raw-data.md) | Der Teardrop mit 10° Bank, Kurvengeometrie und warum die Nadel täuscht. |
 

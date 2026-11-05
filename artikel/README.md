@@ -13,6 +13,8 @@ Techniken und Arbeitsweisen aus dem Line Training.
   Rollen, im iPad, im Funk und im Approach.
 - [Briefing – was wirklich zählt](briefing.md) – Nicht die MSA an der Homebase:
   Himmelsrichtungen, die Kurve im Kopf, Rollen verteilen und sagen, was man vorhat.
+- [Der FD ist eine Empfehlung](fd-ist-eine-empfehlung.md) – Der FD folgt dir,
+  nicht du ihm. Wann man abweichen darf und wann nicht, sagt das FMA.
 - [A320 PF Ground Operations](a320-pf-ground-operations.md) – Technik und
   Arbeitsweise des PF am Boden, vom Engine Start bis zur Rotation und vom Rollout
   bis zur Parking Checklist.
