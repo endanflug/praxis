@@ -2,7 +2,7 @@
 
 [← Zurück zur Artikelübersicht](README.md)
 
-*Stand: 10/2026*
+*Stand: 10/2026 · Rubrik: Praxis – wie man es macht*
 
 > **Kurz gesagt:** Technik und Arbeitsweise des PF am Boden – von der
 > Startvorbereitung bis zum Startlauf und von der Landung bis zur Parkposition.

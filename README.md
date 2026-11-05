@@ -12,9 +12,21 @@ zu Kapitän weitergegeben werden, aber so in keinem Buch stehen.
 
 Alle Artikel findest du im Ordner [`artikel/`](artikel/README.md).
 
+### Praxis – wie man es macht
+
 | Thema | Kurzbeschreibung |
 |-------|------------------|
 | [A320 PF Ground Operations](artikel/a320-pf-ground-operations.md) | Der PF am Boden: Engine Start, Taxi, Line-up, Takeoff Thrust, Rollout und Parkposition. |
+| [HEMA VOR Y 33 – Raw-Data-Training](artikel/hema-vor-y-33-raw-data.md) | Der Teardrop mit 10° Bank, Kurvengeometrie und warum die Nadel täuscht. |
+
+### Nice to know
+
+| Thema | Kurzbeschreibung |
+|-------|------------------|
+| [A320 Radio Altimeter](artikel/a320-radio-altimeter.md) | FMCW, ARINC 429 und der Dip beim Rotieren. |
+| [A320 Wetterradar und Windshear](artikel/a320-wetterradar-windshear.md) | Puls-Doppler, PWS, reaktive Windshear und Callouts. |
+| [Enteisung und Winter Ops](artikel/enteisung-winter-ops.md) | Fluid-Typen, Holdover, Gefrierpunkt-Physik und Two-Step. |
+| [A320 Flight Controls – Sidestick-Signale und Rechner](artikel/a320-flight-controls-sidestick-rechner.md) | ELAC, SEC, FAC, COM/MON und die Sidestick-Potis. |
 
 ---
 
