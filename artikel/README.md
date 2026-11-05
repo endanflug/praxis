@@ -7,7 +7,11 @@ einzeln gelesen werden.
 
 ## Themen
 
-*Die ersten Artikel sind in Arbeit.*
+### A320
+
+- [A320 PF Ground Operations](a320-pf-ground-operations.md) – Technik und
+  Arbeitsweise des PF am Boden, vom Engine Start bis zur Rotation und vom Rollout
+  bis zur Parking Checklist.
 
 <!--
 Neue Artikel hier eintragen, z. B.:

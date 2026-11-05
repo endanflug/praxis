@@ -14,7 +14,7 @@ Alle Artikel findest du im Ordner [`artikel/`](artikel/README.md).
 
 | Thema | Kurzbeschreibung |
 |-------|------------------|
-| *folgt* | *Die ersten Artikel sind in Arbeit.* |
+| [A320 PF Ground Operations](artikel/a320-pf-ground-operations.md) | Der PF am Boden: Engine Start, Taxi, Line-up, Takeoff Thrust, Rollout und Parkposition. |
 
 ---
 
